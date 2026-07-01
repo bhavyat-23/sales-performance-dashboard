@@ -116,10 +116,7 @@ pip install pandas numpy matplotlib
 
 **Bhavya Tagadia**
 
-Bachelor of Engineering (Information Technology)
-
 GitHub: https://github.com/bhavyat-23
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
